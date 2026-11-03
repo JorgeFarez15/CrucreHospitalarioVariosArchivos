@@ -1,0 +1,6 @@
+{
+  "name": "Cruce Hospitalario FEFO - Vicente Corral Moscoso",
+  "description": "Sistema hospitalario de dispensación y cruce de stock con criterio FEFO, generación de actas oficiales PDF y reportes Excel para bodega y farmacia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
